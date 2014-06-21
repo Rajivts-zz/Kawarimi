@@ -1,0 +1,1 @@
+A simple application that uses command line argument to delete a file leaving behind a signature of size 0. Can be converted into an EXE file on Windows to be invoked every time a user deletes a file.
